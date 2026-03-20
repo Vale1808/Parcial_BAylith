@@ -1,10 +1,11 @@
-# Mi Primer Repositorio
+Primer parcial B
 
 ## Nombre
 Aylith Valeria Velásquez Bayona
-
+##Codigo 
+192765
 ## Programa académico
 Ingeniería de Sistemas
 
-## Descripción personal
-Soy estudiante de Ingeniería de Sistemas interesada en el aprendizaje de nuevas tecnologías y en el desarrollo de habilidades en programación y herramientas digitales. Me gusta aprender constantemente y fortalecer mis conocimientos en el área de la informática.
+## Materia
+Mantenimiento de computo
